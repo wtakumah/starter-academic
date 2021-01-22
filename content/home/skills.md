@@ -1,7 +1,7 @@
 ---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-active: false
+
 widget: featurette
 
 # This file represents a page section.
@@ -23,9 +23,9 @@ feature:
 - icon: chart-line
   icon_pack: fas
   name: Statistics
-- icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- icon: overleaf
+  icon_pack: fab
+  name: Overleaf
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
