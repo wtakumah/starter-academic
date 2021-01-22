@@ -1,7 +1,7 @@
 ---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featured
+widget: working
 
 # This file represents a page section.
 headless: true
@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications
+title: Work in Progress
 subtitle: ""
 
 content:
@@ -19,14 +19,14 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: ""
+    author: "Manta, A., "
     category: ""
     publication_type: ""
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
-design:
+design: 1
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
