@@ -17,14 +17,24 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: r-project
-  icon_pack: fab
-  name: R
+- icon: dollar-sign
+  icon_pack: fas
+  name: Economics
 - icon: chart-line
   icon_pack: fas
   name: Statistics
 - icon: overleaf
+  icon_pack: ai
+  name: Overleaf
+  
+- icon: r-project
   icon_pack: fab
+  name: R
+- icon: python
+  icon_pack: fab
+  name: Python
+- icon: overleaf
+  icon_pack: ai
   name: Overleaf
 
 # Uncomment to use emoji icons.
