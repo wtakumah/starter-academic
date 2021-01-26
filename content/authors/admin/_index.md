@@ -71,5 +71,4 @@ Alexandra is a third year Ph.D. student in Economics at Emory University. Her pr
 
 During her undergraduate studies, she worked as an Assistant Researcher at the Center of Financial Studies (CFS) and the Laboratory for Investment Applications (EPEFA) of UOA. Her working experience includes an Economic Analyst position at the Ministry of Economy and Development, in Greece.
 
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
