@@ -43,15 +43,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/4lexandraManta
+- icon: user-graduate
+  icon_pack: fas
+  link: http://economics.emory.edu/home/people/grad-students/manta-alexandra.html 
 - icon: github
   icon_pack: fab
   link: https://github.com/alexandramanta
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/alexandramanta/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/4lexandraManta
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
