@@ -1,6 +1,6 @@
 ---
 # Display name
-title: OOAlexandra Manta
+title: Alexandra Manta
 
 # Is this the primary user of the site?
 superuser: true
