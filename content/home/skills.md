@@ -33,9 +33,9 @@ feature:
 - icon: python
   icon_pack: fab
   name: Python
-- icon: overleaf
-  icon_pack: ai
-  name: Overleaf
+- icon: github
+  icon_pack: fab
+  name: Github
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
