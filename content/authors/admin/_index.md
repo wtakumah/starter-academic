@@ -70,7 +70,7 @@ email: "amanta@emory.edu"
 highlight_name: false
 ---
 
-Alexandra is a third year Ph.D. student in Economics at {{< staticref "https://www.emory.edu/home/index.html" "newtab" >}}Emory University{{< /staticref >}}. Her primary research interest is in the econometrics of networks. Prior her studies at Emory, she received a BA in Economics at {{< staticref "https://en.uoa.gr/" "newtab" >}}National and Kapodistrian University of Athens{{< /staticref >}} (UOA), in Greece. 
+Alexandra is a third year Ph.D. student in Economics at {{< staticref "https://www.emory.edu/home/index.html" "newtab" >}}Emory University{{< /staticref >}}. Her primary research interest is in the econometrics of networks. Prior to her studies at Emory, she received a BA in Economics at {{< staticref "https://en.uoa.gr/" "newtab" >}}National and Kapodistrian University of Athens{{< /staticref >}} (UOA), in Greece. 
 
 During her undergraduate studies, she worked as an Assistant Researcher at the {{< staticref "https://www.ifk-cfs.de/home.html" "newtab" >}}Center of Financial Studies{{< /staticref >}} and the {{< staticref "http://www.marketing.econ.uoa.gr/laboratory-for-investment-applications.html" "newtab" >}}Laboratory for Investment Applications{{< /staticref >}} of UOA. Her working experience includes an Economic Analyst position at the Ministry of Economy and Development, in Greece.
 
