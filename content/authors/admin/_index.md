@@ -27,7 +27,6 @@ education:
   courses:
   - course: PhD in Economics
     institution: Emory University
-    url: https://www.emory.edu/home/index.html
     year: 2023 (Expected)
   - course: MSc in Economics
     institution: Emory University
