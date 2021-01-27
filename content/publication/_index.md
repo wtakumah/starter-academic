@@ -1,5 +1,5 @@
 ---
-active: false
+
 title: Publications
 
 # View.
