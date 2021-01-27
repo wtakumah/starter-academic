@@ -31,7 +31,7 @@ education:
   - course: MSc in Economics
     institution: Emory University
     year: 2021 
-  - course: BA in Economics
+  - course: BA (First-Class) in Economics
     institution: National and Kapodistrian University of Athens
     year: 2016
 
