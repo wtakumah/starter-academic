@@ -1,5 +1,4 @@
 ---
-
 title: Publications
 
 # View.
@@ -15,11 +14,6 @@ header:
   image: ""
 ---
 
-
-
-
-
----
 title: "An example conference paper"
 
 # Authors
