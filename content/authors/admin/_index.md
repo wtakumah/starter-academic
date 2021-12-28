@@ -43,6 +43,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=3gRzYKUAAAAJ&hl=en&oi=sra
+#- icon: microsoft
+#  icon_pack: fab
+#  link:
+#- icon: ideas-repec
+#  icon_pack: ai
+#  link:
+#- icon: researchgate
+#  icon_pack: ai
+#  link:
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3683-2151
 - icon: user-graduate
   icon_pack: fas
   link: http://economics.emory.edu/home/people/grad-students/manta-alexandra.html 
