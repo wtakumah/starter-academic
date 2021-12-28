@@ -1,7 +1,7 @@
 +++
 title = "Estimating social effects in a multilayered Linear-in-Means model with network data"
 date = "2007-01-01"
-authors = ["A. Manta", "A.T. Ho", "K.P. Huynh", "D.T. Jacho-Chavez"]
+authors = ["A. Manta", "A.T.Y. Ho", "K.P. Huynh", "D.T. Jacho-Chavez"]
 publication_types = ["2"]
 publication = "**Statistics \& Probability Letters**"
 publication_short = "**Statistics \& Probability Letters**"
