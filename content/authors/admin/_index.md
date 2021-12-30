@@ -48,7 +48,7 @@ social:
   link: https://scholar.google.com/citations?user=3gRzYKUAAAAJ&hl=en&oi=sra
 #- icon: microsoft
 #  icon_pack: fab
-#  link:
+#  link: https://academic.microsoft.com/profile/ejh4i6ef-e3ii-4g75-e945-542ef9747280/AlexandraManta/no-publications
 #- icon: ideas-repec
 #  icon_pack: ai
 #  link:
