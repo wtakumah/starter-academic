@@ -18,7 +18,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Time Series Analysis of macroeconomic and financial data
+- Time Series Analysis of Financial data
 - Econometrics of Networks
 - Causal Inference in Multilayer Networks
 - Social Interactions
