@@ -1,7 +1,7 @@
 +++
 title = "Estimating Social Effects in a Multilayered Linear-in-Means Model with Network Data"
-date = "2021-12-01"
-publishDate = "2021-12-01"
+date = "2022-04-01"
+publishDate = "2022-04-01"
 authors = ["A. Manta", "A.T.Y. Ho", "K.P. Huynh", "D.T. Jacho-Chavez"]
 publication_types = ["2"]
 publication = "**Statistics & Probability Letters**, 109331"
