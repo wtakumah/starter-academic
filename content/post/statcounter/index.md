@@ -6,4 +6,4 @@ Statcounter has a lot of useful {{< staticref "https://statcounter.com/features/
 - Sign up to {{< staticref "https://statcounter.com/" "newtab" >}}Statcounter{{< /staticref >}}.
 - Create a project which will be about your website.
 - Statcounter will create a tracking code for you, so it asks for the link of your website.
-- Provide this link and paste the tracking code in your repo: I put it in my Github alexandramanta/starter-academic/custom_head.html
+- Provide this link and paste the tracking code in your repo: I put it in my Github {{< staticref "https://github.com/alexandramanta/starter-academic/blob/master/layouts/partials/custom_head.html" "newtab" >}}alexandramanta/starter-academic/layouts/partials/custom_head.html{{< /staticref >}}.
