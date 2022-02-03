@@ -24,7 +24,7 @@
   weight = 30
 
 [[main]]
-  name = "ECON220Labs"
+  name = "Posts"
   url = "#posts"
   weight = 40
 
