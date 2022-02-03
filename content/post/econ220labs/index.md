@@ -2,6 +2,16 @@
 active: true
 title: Econ 220 Labs Data files
 ---
+
+[[main]]
+  name = "averages"
+  url = "media/averages.csv"
+  weight = 10
+
+[[main]]
+  name = "BirthdataNC"
+  url = "media/BirthdataNC.csv"
+  weight = 20
 {{< staticref "media/averages.csv" "newtab" >}}averages.csv
 {{< staticref "media/BirthdataNC.csv" "newtab" >}}BirthdataNC.csv
 {{< staticref "media/bwght2.dta" "newtab" >}}bwght2.dta
