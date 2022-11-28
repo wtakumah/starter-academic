@@ -96,4 +96,4 @@ During my 10-year experience in this field, I have built a strong skillset in da
 
 {{< icon name="eye" pack="fas" >}} View my {{< staticref "www.linkedin.com/in/alexandramanta" "newtab" >}}LinkedIn profile{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_AManta.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Preview my downloadable {{< staticref "media/CV_AManta.pdf" "newtab" >}}resumé{{< /staticref >}}.
