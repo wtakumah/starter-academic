@@ -14,7 +14,7 @@ organizations:
   url: https://www.emory.edu/home/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Econometric Models of Multilayer Networks.
+bio: My research interests include Econometric Time Series Models of Panel Data and Causal Inference in Multilayer Networks.
 
 # Interests to show in About widget
 interests:
