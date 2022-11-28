@@ -98,4 +98,4 @@ My work and academic experience have equipped me with both the theoretical and t
 
 {{< icon name="eye" pack="fas" >}} View my {{< staticref "www.linkedin.com/in/alexandramanta" "newtab" >}}LinkedIn profile{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Preview my downloadable {{< staticref "media/CV_AManta.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Get my {{< staticref "media/CV_AManta.pdf" "newtab" >}}resumé{{< /staticref >}}.
