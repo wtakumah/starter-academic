@@ -19,10 +19,7 @@ bio: My research interests include Econometric Models of Multilayer Networks.
 # Interests to show in About widget
 interests:
 - Time Series & Econometric Data Analysis
-  - Big Data
-  - Network Data 
-  - Panel Data
-  - Quantitative Data
+- Big Data, Network Data, Panel Data, Quantitative Data
 - Data-Driven Desicion Making
 
 
