@@ -1,5 +1,5 @@
 ---
-active: False
+active: false
 title: Posts
 
 # View.
