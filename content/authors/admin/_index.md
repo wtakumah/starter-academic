@@ -96,6 +96,6 @@ My 10-years of experience in real-world economic problems, has equipped me with 
 My work and academic experience have equipped me with both the *qualitative* and the *quantitative* tools to address a variety of economic problems for **Business Data-Driven Decision Making**. I have worked with datasets in areas such as investments, banking, real estate, and healthcare.
 
 
-{{< icon name="eye" pack="fas" >}} View my {{< staticref "https://www.linkedin.com/in/alexandramanta/" "newtab" >}}LinkedIn profile{{< /staticref >}}.
+{{< icon name="eye" pack="fas" >}} View my {{< staticref "https://www.linkedin.com/in/alexandramanta" "newtab" >}}LinkedIn profile{{< /staticref >}}.
 
 {{< icon name="download" pack="fas" >}} Get my {{< staticref "media/CV_AManta.pdf" "newtab" >}}resumé{{< /staticref >}}.
