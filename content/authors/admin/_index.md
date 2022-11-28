@@ -85,13 +85,13 @@ social:
 email: "amanta@emory.edu"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Alexandra is a Ph.D. Candidate in Economics at {{< staticref "https://www.emory.edu/home/index.html" "newtab" >}}Emory University{{< /staticref >}}. Her primary research interest is in the econometrics of networks. 
+I am a Ph.D. Candidate in Economics at {{< staticref "https://www.emory.edu/home/index.html" "newtab" >}}Emory University{{< /staticref >}}, USA. I also hold a BA in Economics from {{< staticref "https://en.uoa.gr/" "newtab" >}}National and Kapodistrian University of Athens{{< /staticref >}} (UOA), Greece. 
 
-She is also a 2021-2022 {{< staticref "https://www.gs.emory.edu/diversity/index.html" "newtab" >}}Laney EDGE{{< /staticref >}} Ambassador and instructor of the Spring 2022 course "ECON 220 Probability and Statistics: LAB1, LAB3 and LAB4" in Economics Department at Emory University.
+During my 10-year experience in this field, I have built a strong skillset in data analysis (data processing, cleansing & modeling) and programming which, nowadays, is a valuable component to profitable companies. My work and academic experience have equipped me with both the theoretical and the technical tools to address a variety of economic problems for business decision making. I have worked with data in areas such as investments, banking, real estate, and healthcare.
 
-Prior to her studies at Emory, she received a BA in Economics at {{< staticref "https://en.uoa.gr/" "newtab" >}}National and Kapodistrian University of Athens{{< /staticref >}} (UOA), in Greece. During her undergraduate studies, she worked as an Assistant Researcher at the {{< staticref "https://www.ifk-cfs.de/home.html" "newtab" >}}Center of Financial Studies{{< /staticref >}} and the {{< staticref "http://www.marketing.econ.uoa.gr/laboratory-for-investment-applications.html" "newtab" >}}Laboratory for Investment Applications{{< /staticref >}} of UOA. Her working experience includes an Economic Analyst position at the Ministry of Economy and Development, in Greece.
 
+View my {{< staticref "www.linkedin.com/in/alexandramanta" "newtab" >}}LinkedIn profile{{< /staticref >}}.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_AManta.pdf" "newtab" >}}resumé{{< /staticref >}}.
