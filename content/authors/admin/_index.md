@@ -40,6 +40,7 @@ education:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# or https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
@@ -93,6 +94,6 @@ I am a Ph.D. Candidate in Economics at {{< staticref "https://www.emory.edu/home
 During my 10-year experience in this field, I have built a strong skillset in data analysis (data processing, cleansing & modeling) and programming which, nowadays, is a valuable component to profitable companies. My work and academic experience have equipped me with both the theoretical and the technical tools to address a variety of economic problems for business decision making. I have worked with data in areas such as investments, banking, real estate, and healthcare.
 
 
-{{< icon name="invisible" pack="wpf" >}} View my {{< staticref "www.linkedin.com/in/alexandramanta" "newtab" >}}LinkedIn profile{{< /staticref >}}.
+{{< icon name="eye" pack="fas" >}} View my {{< staticref "www.linkedin.com/in/alexandramanta" "newtab" >}}LinkedIn profile{{< /staticref >}}.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_AManta.pdf" "newtab" >}}resumé{{< /staticref >}}.
