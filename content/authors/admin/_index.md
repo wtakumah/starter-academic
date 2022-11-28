@@ -91,9 +91,9 @@ highlight_name: true
 
 I am a Ph.D. Candidate in Economics at {{< staticref "https://www.emory.edu/home/index.html" "newtab" >}}Emory University{{< /staticref >}}, USA. I also hold a BA in Economics from {{< staticref "https://en.uoa.gr/" "newtab" >}}National and Kapodistrian University of Athens{{< /staticref >}} (UOA), Greece. 
 
-During my 10-year experience in this field, I have built a strong skillset in *Data Analysis (data processing, cleansing & modeling)* and *programming* which is a valuable asset to profitable companies. 
+During my 10-year experience in this field, I have built a strong skillset in **Data Analysis** (data processing, cleansing & modeling) and **programming** which is a valuable asset to profitable companies. 
 
-My work and academic experience have equipped me with both the *qualitative* and the *quantitative* tools to address a variety of economic problems for Business Data-Driven Decision Making. I have worked with datasets in areas such as investments, banking, real estate, and healthcare.
+My work and academic experience have equipped me with both the *qualitative* and the *quantitative* tools to address a variety of economic problems for **Business Data-Driven Decision Making**. I have worked with datasets in areas such as investments, banking, real estate, and healthcare.
 
 
 {{< icon name="eye" pack="fas" >}} View my {{< staticref "www.linkedin.com/in/alexandramanta" "newtab" >}}LinkedIn profile{{< /staticref >}}.
