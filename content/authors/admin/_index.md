@@ -93,5 +93,6 @@ I am a Ph.D. Candidate in Economics at {{< staticref "https://www.emory.edu/home
 During my 10-year experience in this field, I have built a strong skillset in data analysis (data processing, cleansing & modeling) and programming which, nowadays, is a valuable component to profitable companies. My work and academic experience have equipped me with both the theoretical and the technical tools to address a variety of economic problems for business decision making. I have worked with data in areas such as investments, banking, real estate, and healthcare.
 
 
-View my {{< staticref "www.linkedin.com/in/alexandramanta" "newtab" >}}LinkedIn profile{{< /staticref >}}.
+View my {{< staticref "www.linkedin.com/in/alexandramanta" "newtab" >}}LinkedIn profile{{< /staticref >}}.{{<FontAwesomeIcon icon="fa-solid fa-download" />}}
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_AManta.pdf" "newtab" >}}resumé{{< /staticref >}}.
