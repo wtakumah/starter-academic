@@ -20,7 +20,7 @@ bio: My research interests include Econometric Time Series Models of Panel Data 
 interests:
 - Time Series & Econometric Data Analysis
 - Causal Inference in Multilayer Networks
-- Data-Driven Desicion Making
+- Data-Driven Decision Making
 - Big Data, Network Data, Panel Data, Quantitative Data
 
 
