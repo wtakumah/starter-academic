@@ -89,11 +89,15 @@ email: "amanta@emory.edu"
 highlight_name: true
 ---
 
-I am a Ph.D. Candidate in Economics at {{< staticref "https://www.emory.edu/home/index.html" "newtab" >}}Emory University{{< /staticref >}}, USA. I also hold a BA in Economics from {{< staticref "https://en.uoa.gr/" "newtab" >}}National and Kapodistrian University of Athens{{< /staticref >}} (UOA), Greece. 
+I am a third-year Ph.D. student in International Business Administration with a concentration in Finance in the Division of International Banking and Finance Studies of the A. R. Sanchez, Jr. School of Business at Texas A&M International University in Laredo, TX.
 
-My 10-years of experience in real-world economic problems, has equipped me with a strong skillset in **Data Analysis** (data processing, cleansing & modeling) and in **Programming** which are valuable assets to profitable companies. 
+I received my masters (MS) (dual degree) in Economics and Data Science from South Dakota State University in 2019, and my BA in Economics from the University of Cape Coast, Ghana in 2016.
 
-My work and academic experience have equipped me with both the *qualitative* and the *quantitative* tools to address a variety of economic problems including **Business Data-Driven Decision Making**. I have worked with datasets in areas such as investments, banking, real estate, and healthcare.
+I am a certified Financial Modeling & Valuation Analyst (FMVA).
+
+My research is currently in empirical corporate finance, financial econometrics, and international business.
+
+I also have an interest in economics & statistical techniques.
 
 
 {{< icon name="eye" pack="fas" >}} View my {{< staticref "https://www.linkedin.com/in/alexandramanta" "newtab" >}}LinkedIn profile{{< /staticref >}}.
