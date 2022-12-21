@@ -52,7 +52,7 @@ social:
   link: '/#contact'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=3gRzYKUAAAAJ&hl=en&oi=sra
+  link: https://scholar.google.com/citations?user=voxKhJ4AAAAJ&hl=en&oi=ao
 #- icon: microsoft
 #  icon_pack: fab
 #  link: https://academic.microsoft.com/profile/ejh4i6ef-e3ii-4g75-e945-542ef9747280/AlexandraManta/no-publications
