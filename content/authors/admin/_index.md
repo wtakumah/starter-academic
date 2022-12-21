@@ -62,9 +62,9 @@ social:
 #- icon: researchgate
 #  icon_pack: ai
 #  link:
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0003-3683-2151
+#- icon: orcid
+ # icon_pack: ai
+ # link: https://orcid.org/0000-0003-3683-2151
 - icon: user-graduate
   icon_pack: fas
   link: http://economics.emory.edu/home/people/grad-students/manta-alexandra.html 
@@ -73,10 +73,10 @@ social:
   link: https://github.com/alexandramanta
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/alexandramanta/
+  link: https://www.linkedin.com/in/tarkom-augustine/
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/4lexandraManta
+  link: https://twitter.com/Atarkom
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -103,6 +103,6 @@ My research is currently in empirical corporate finance, financial econometrics,
 I also have an interest in economics & statistical techniques.
 
 
-{{< icon name="eye" pack="fas" >}} View my {{< staticref "https://www.linkedin.com/in/alexandramanta" "newtab" >}}LinkedIn profile{{< /staticref >}}.
+{{< icon name="eye" pack="fas" >}} View my {{< staticref "https://www.linkedin.com/in/tarkom-augustine" "newtab" >}}LinkedIn profile{{< /staticref >}}.
 
 {{< icon name="download" pack="fas" >}} Get my {{< staticref "media/CV_AManta.pdf" "newtab" >}}resumé{{< /staticref >}}.
