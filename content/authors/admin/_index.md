@@ -28,14 +28,17 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Economics
-    institution: Emory University
-    year: 2023 (Expected)
+  - course: PhD in International Business Administration
+    institution: Texas A&M International University
+    year: 2024 (Expected)
   - course: MSc in Economics
-    institution: Emory University
-    year: 2021 
+    institution: South Dakota State University
+    year: 2019 
+  - course: MSc in Data Science
+    institution: South Dakota State University
+    year: 2019 
   - course: BA (First-Class) in Economics
-    institution: National and Kapodistrian University of Athens
+    institution: University of Cape Coast
     year: 2016
 
 # Social/Academic Networking
