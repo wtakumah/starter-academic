@@ -1,27 +1,27 @@
 ---
 # Display name
-title: Alexandra Manta
+title: Augustine Tarkom
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Economics
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Emory University
-  url: https://www.emory.edu/home/index.html
+- name: Texas A&M International University
+  url: https://www.tamiu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Econometric Time Series Models of Panel Data and Causal Inference in Multilayer Networks.
+bio: My research is currently in empirical corporate finance, financial econometrics, and international business.
 
 # Interests to show in About widget
 interests:
-- Time Series & Econometric Data Analysis
-- Causal Inference in Multilayer Networks
-- Data-Driven Decision Making
-- Big Data, Network Data, Panel Data, Quantitative Data
+- Empirical corporate finance
+- Financial econometrics
+- International business
+- Quantitative Data
 
 
 
