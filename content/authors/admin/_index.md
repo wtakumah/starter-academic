@@ -61,7 +61,7 @@ social:
 #  link:
 - icon: researchgate
   icon_pack: ai
- link: https://www.researchgate.net/profile/Augustine-Tarkom
+  link: https://www.researchgate.net/profile/Augustine-Tarkom
 #- icon: orcid
  # icon_pack: ai
  # link: https://orcid.org/0000-0003-3683-2151
