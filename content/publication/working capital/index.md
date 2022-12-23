@@ -1,14 +1,14 @@
 
 +++
-title = "Impact of COVID-19 exposure on working capital management: The moderating effect of investment opportunities and government incentives"
-date = "2022-08-17"
-publishDate = "2022-08-17"
-authors = ["Augustine Tarkom"]
+title = "Working capital management and managerial talent"
+date = "2021-26-08"
+publishDate = "2021-26-08"
+authors = ["Nacasius U. Ujah, Augustine Tarkom, Collins E. Okafor"]
 publication_types = ["2"]
-publication = "**Finance Research Letters**, 102666"
-publication_short = "**Finance Research Letters**"
-doi = "https://doi.org/10.1016/j.frl.2021.102666"
-abstract = "This study examines the impact of the COVID-19 pandemic on firms’ working capital management (WCM) covering 2,542 US-publicly traded firms for the period 2019Q1–2021Q2. Proxying WCM as cash conversion cycle (CCC), I find that COVID-19-exposed firms operate with higher levels of CCC. I show that firms with more investment opportunities and firms that receive government incentives (deferred taxes and investment tax credit (DT_ITC)) operate with lower levels of CCC. Overall, I provide evidence of the significant adverse impact of COVID-19 on WCM and show that the effect could be mitigated with an increase in investment"
+publication = "**International Journal of Managerial Finance**"
+publication_short = "**International Journal of Managerial Finance**"
+doi = "https://doi.org/10.1108/IJMF-12-2019-0481"
+abstract = "Talented managers arguably remain quintessential to firm value and performance. While the literature offers evidence for the long-term orientation of talented managers, there is a paucity of evidence on the short-term performance of managers. Here, we examine the relationship between managerial talent and working capital management (WCM)."
 abstract_short = ""
 image_preview = ""
 selected = false
