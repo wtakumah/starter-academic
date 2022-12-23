@@ -93,7 +93,7 @@ phone = "+1 (213) 222-8387"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Rich Memorial Building", city = "Atlanta", region = "GA", postcode = "30322-2240", country = "United States", country_code = "US"}
+address = {street = "Western Hemisphere Trade Center", city = "Laredo", region = "TX", postcode = "78041-1900", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
