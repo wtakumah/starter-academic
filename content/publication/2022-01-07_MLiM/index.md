@@ -1,13 +1,13 @@
 +++
-title = "Estimating Social Effects in a Multilayered Linear-in-Means Model with Network Data"
+title = "Do or Die: Analysis of Bankruptcy Risk from a Research and Development Perspective"
 date = "2022-01-07"
-publishDate = "2022-01-07"
-authors = ["A. Manta", "A.T.Y. Ho", "K.P. Huynh", "D.T. Jacho-Chavez"]
+publishDate = "2022-08-17"
+authors = ["Augustine Tarkom and Nacasius U. Ujah"]
 publication_types = ["2"]
 publication = "**Statistics & Probability Letters**, 109331"
-publication_short = "**Statistics & Probability Letters**, 109331"
-doi = "10.1016/j.spl.2021.109331"
-abstract = "This paper studies the identification and estimation of social parameters in a general version of the Linear-in-Means model commonly fitted in the Social Sciences with multilayered network data. A Monte Carlo exercise showcases its good small-sample properties while an empirical application to Canadian consumers' credit usage demonstrates its applicability. Our estimates show that one's credit-card balance increases by 0.31 CAD for an extra 1 CAD owed by surrounding neighbors."
+publication_short = "**The International Trade Journal**"
+doi = "doi:10.1080/08853908.2022.2111381"
+abstract = "Arguably, R&D remains one of the main drivers for signaling, and its essence in reducing bankruptcy risk (BR) is critical. We revisit the literature and debate and find that since 1982, R&D investment has, on average, been increasing at an annual rate of 0.033%, while BR has been decreasing at an annual rate of 9.02%. Empirically, we find consistent evidence that R&D investment reduces BR. Also, firms with a higher likelihood of bankruptcy have a higher marginal benefit from incremental investment in R&D. Additional results suggest that capital structure and other signaling strategies matter in how R&D affects BR"
 abstract_short = ""
 image_preview = ""
 selected = false
