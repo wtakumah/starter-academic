@@ -105,4 +105,4 @@ I also have an interest in economics & statistical techniques.
 
 {{< icon name="eye" pack="fas" >}} View my {{< staticref "https://www.linkedin.com/in/tarkom-augustine" "newtab" >}}LinkedIn profile{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Get my {{< staticref "media/CV_AManta.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Get my {{< staticref "media/Tarkom_A_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
