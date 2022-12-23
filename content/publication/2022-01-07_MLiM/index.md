@@ -1,6 +1,6 @@
 +++
 title = "Do or Die: Analysis of Bankruptcy Risk from a Research and Development Perspective"
-date = "2022-01-07"
+date = "2022-08-17"
 publishDate = "2022-08-17"
 authors = ["Augustine Tarkom and Nacasius U. Ujah"]
 publication_types = ["2"]
