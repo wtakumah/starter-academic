@@ -68,9 +68,9 @@ social:
 #- icon: user-graduate
  # icon_pack: fas
  # link: http://economics.emory.edu/home/people/grad-students/manta-alexandra.html 
-- icon: github
-  icon_pack: fab
-  link: https://github.com/alexandramanta
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/alexandramanta
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/tarkom-augustine/
