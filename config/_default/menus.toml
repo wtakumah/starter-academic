@@ -13,10 +13,10 @@
   url = "media/Tarkom_A_Resume.pdf"
   weight = 20
 
-#[[main]]
- # name = "F.Publications"
- # url = "#featured"
- # weight = 30
+[[main]]
+  name = "Working Papers"
+  url = "#featured"
+  weight = 30
   
  [[main]]
   name = "Publications"
