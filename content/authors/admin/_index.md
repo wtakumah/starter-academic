@@ -86,7 +86,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "amanta@emory.edu"
+email: "augustinetarkom@dusty.tamiu.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
