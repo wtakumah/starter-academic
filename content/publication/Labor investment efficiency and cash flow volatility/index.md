@@ -1,9 +1,9 @@
 
 +++
 title = "Labor investment efficiency and cash flow volatility"
-date = "08-02-2022"
-publishDate = "08-02-2022"
-authors = ["XinhuiHuang and AugustineTarkom"]
+date = "2022-08-02"
+publishDate = "2022-08-02"
+authors = ["Xinhui Huang and Augustine Tarkom"]
 publication_types = ["2"]
 publication = "**Finance Research Letters**, 103227"
 publication_short = "**Finance Research Letters**"
