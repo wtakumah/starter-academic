@@ -25,12 +25,12 @@
 
 [[main]]
   name = "Resources"
-  url = "#posts"
+  url = "#resource"
   weight = 40
   
 [[main]]
   name = "Conferences"
-  url = "#posts"
+  url = "#conference"
   weight = 40
   
 [[main]]
