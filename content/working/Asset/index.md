@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Fiscal Policy and Asset Prices in a Dynamic Factor Model with Cointegrated Factors"
-authors: [Takumah, W.]
+title: "Asset redeployability and corporate risk-taking"
+authors: [with Patrick Glavee and Nana Twum Owusu-Peprah]
 date: 2022-08-14T20:42:26-05:00
 
 # Schedule page publish date (NOT publication's date).
@@ -25,10 +25,7 @@ publication: "<br />
 
 publication_short: ""
 
-abstract: "This paper investigates the effects of fiscal policy on asset prices using structural dynamic factor model (SDFM) with cointegrated factors. Much of the focus in the literature were on monetary policy and asset prices, with little attention to fiscal policy. In this paper I estimated the impulse response functions (IRFs) of stock price and house to government spending shocks using a quarterly dataset with 207 macroeconomic and financial variables obtained from St.
-Louis FRED website. Government spending shock was identified by combining “named factor normalization” and “unit effect normalization” and applying Cholesky decomposition. The results of the IRFs shows that both stock price and house price responded positively to government spending shock and the effects were persistent and not temporal as suggested in the literature. Results from forecast error variance decomposition shows that government spending shock explained high percentage of the forecast error variance in real GDP, consumption, and fixed investment. This paper highlighted the importance of allowing cointegration among
-factors within the SDFM framework and the role played by using larger datasets in resolving the limited information problems inherent in SVAR analysis. The results implies that fiscal policy leads to a boom in housing and stock markets.
-"
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -45,7 +42,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://github.com/wtakuma/starter-academic/blob/master/content/publication/fiscal%20cons/Working_Paper.pdf
+url_pdf: 
 url_code:
 url_dataset:
 url_poster:
