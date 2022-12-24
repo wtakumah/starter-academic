@@ -3,7 +3,7 @@
 
 title: "Paying for your actions? External monitoring cost of labor investment inefficiency (old title: Audit fee and labor investment inefficiency)"
 
-authors: [with Xinhui Huang and Leiza Nochebuena-Evans]
+authors: [Augustine Tarkom, Xinhui Huang and Leiza Nochebuena-Evans]
 date: 2014-04-14T20:42:26-05:00
 
 # Schedule page publish date (NOT publication's date).
@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://mpra.ub.uni-muenchen.de/58579/1/MPRA_paper_58579.pdf
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
