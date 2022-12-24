@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Asset redeployability and corporate risk-taking"
-authors: [with Patrick Glavee and Nana Twum Owusu-Peprah]
+authors: [Augustine Tarkom, Patrick Glavee and Nana Twum Owusu-Peprah]
 date: 2022-08-14T20:42:26-05:00
 
 # Schedule page publish date (NOT publication's date).
@@ -18,9 +18,9 @@ publication_types: ["3"]
 publication: "<br />
 **Presentations:**<br />
 <br />
-*94th International Atlantic Economic Conference. Scheduled October 2022.*<br />
+#94th International Atlantic Economic Conference. Scheduled October 2022.*<br />
 <br />
-*2023 ASSA AEA Annual Meetings. New Orleans. Louisiana. Scheduled January 2023*"
+#2023 ASSA AEA Annual Meetings. New Orleans. Louisiana. Scheduled January 2023*"
 
 
 publication_short: ""
