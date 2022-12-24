@@ -14,12 +14,6 @@ date: 2022-08-14T20:42:26-05:00
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 
-# Publication name and optional abbreviated publication name.
-publication: "<br />
-**Presentations:**<br />
-
-
-
 
 publication_short: ""
 
