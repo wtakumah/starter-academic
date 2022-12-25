@@ -28,10 +28,10 @@
   url = "#resource"
   weight = 40
   
-[[main]]
-  name = "Conferences"
-  url = "#conference"
-  weight = 40
+#[[main]]
+  #name = "Conferences"
+  #url = "#conference"
+  #weight = 40
   
 [[main]]
   name = "Contact"
