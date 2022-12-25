@@ -1,8 +1,8 @@
 
 +++
 title = "Working capital management and managerial talent"
-date = "2021-26-08"
-publishDate = "2021-26-08"
+date = "2021"
+publishDate = "2021"
 authors = ["Nacasius U. Ujah, Augustine Tarkom, Collins E. Okafor"]
 publication_types = ["2"]
 publication = "**International Journal of Managerial Finance**"
